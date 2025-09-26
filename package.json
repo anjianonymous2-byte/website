@@ -2,6 +2,7 @@
   "name": "spiro-static-website",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://anjianonymous2-byte.github.io/build",
   "dependencies": {
     "@radix-ui/react-toast": "^1.2.11",
     "class-variance-authority": "^0.7.1",
